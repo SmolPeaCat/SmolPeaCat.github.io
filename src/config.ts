@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  website: "https://SmolPeaCat.github.io", // replace this with your deployed domain
+  author: "SmolPeaCat",
+  desc: "A minimal blog, to practice my writing skills",
+  title: "Smol-Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -26,26 +26,29 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: ` ${SITE.title} on Github`,
+    href: "https://github.com/SmolPeaCat",
+    linkTitle: ` Link with me on Github`,
     active: true,
   },
+  /*
   {
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
     active: true,
   },
+  
   {
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
+  */
   {
     name: "LinkedIn",
     href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on LinkedIn`,
+    linkTitle: ` Link with me on LinkedIn`,
     active: true,
   },
   {
@@ -62,9 +65,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Twitch",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Twitch`,
-    active: false,
+    href: "https://twitch.tv/SmolPeaCat",
+    linkTitle: `Join my streams on Twitch`,
+    active: true,
   },
   {
     name: "YouTube",
