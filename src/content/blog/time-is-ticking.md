@@ -7,7 +7,6 @@ draft: false
 tags:
   - blog
   - tech
-  - hosting
   - web-dev
 description: In this Article I talk about my billion dollar idea. for free !!!
 ---
