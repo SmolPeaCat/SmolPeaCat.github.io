@@ -37,7 +37,7 @@ For my own book I'm using, [Obsidian](https://obsidian.md) (probably son't have 
 
 That is all for the moment.
 
-## My goals !
+## My goals
 
 - I want to be able to write any kind of post about the most random thing ever and make it interesting
 - // TODO : Find some new ideas for goals
